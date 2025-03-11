@@ -228,21 +228,21 @@ export default function AppStoreListing() {
       {/* Navigation Footer */}
       <div className="fixed bottom-0 left-0 right-0 bg-white border-t">
         <nav className="flex justify-around items-center h-16 max-w-lg mx-auto px-4">
-          <a href="https://jaosua123.electrikora.com" className="flex flex-col items-center gap-1">
+          <a href="https://rls.my/jsre123" className="flex flex-col items-center gap-1">
             <GamepadIcon className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.games")}</span>
           </a>
-          <a href="https://jaosua123.electrikora.com" className="flex flex-col items-center gap-1">
+          <a href="https://rls.my/jsre123" className="flex flex-col items-center gap-1">
             <Grid className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.apps")}</span>
           </a>
-          <a href="https://jaosua123.electrikora.com" className="flex flex-col items-center gap-1">
+          <a href="https://rls.my/jsre123" className="flex flex-col items-center gap-1">
             <div className="p-2 rounded-full bg-blue-50">
               <Search className="h-6 w-6 text-blue-600" />
             </div>
             <span className="text-xs text-blue-600">{t("navigation.search")}</span>
           </a>
-          <a href="https://line.me/R/ti/p/@871snzv" className="flex flex-col items-center gap-1">
+          <a href="https://rls.my/jsline" className="flex flex-col items-center gap-1">
             <BookOpen className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.books")}</span>
           </a>
